@@ -1,0 +1,32 @@
+/* styles.css */
+
+/* Pink background for the whole app */
+body {
+    background-color: #ffc0cb;
+  }
+  
+  /* Pink container for the input form */
+  .input-container {
+    background-color: #ffc0cb;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Big pink button */
+  .button-pink {
+    background-color: #ff69b4;
+    color: white;
+    font-size: 18px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button-pink:hover {
+    background-color: #ff5a9a;
+  }
+  
